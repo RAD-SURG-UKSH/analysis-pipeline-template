@@ -14,8 +14,11 @@
 *.userprefs
 
 # Issues template
-
 templates/
+
+#data files
+src/data/
+src/data_analysis
 
 # Mono auto generated files
 mono_crash.*
